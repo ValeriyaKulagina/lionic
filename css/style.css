@@ -468,7 +468,7 @@ body {
   margin-right: 30px;
 }
 
-.client__descr {
+.clients__descr {
   margin: 0;
   margin-bottom: 30px;
   font-size: 14px;
@@ -786,7 +786,7 @@ body {
 }
 
 .footer__left,
-.footr__right {
+.footer__right {
   align-items: center;
 }
 
