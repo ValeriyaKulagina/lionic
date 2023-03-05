@@ -458,6 +458,12 @@ body {
   color: #fff;
 }
 
+.articles-center {
+  display: none;
+  padding-top: 20px;
+  text-align: center;
+}
+
 /*clients*/
 
 .clients {
